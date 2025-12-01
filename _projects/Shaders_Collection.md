@@ -56,5 +56,4 @@ To give your project a background in the portfolio page, just add the img tag to
   Demo video of the effect/material/tool in action.
 </div>
 
-
 {% endraw %}
