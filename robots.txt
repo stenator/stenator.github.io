@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stenator.github.io/stenator/sitemap.xml
+Sitemap: https://stenator.github.io/sitemap.xml
